@@ -1,11 +1,11 @@
 # Minkyu Park
 
-Hi! My name is [Minkyu Park](https://github.com/yourgithubid), undergraduate research student at Artificial Intelligence Accelerating Lab (AIAC Lab) in Hallym University, Chuncheon, South Korea. 
+Hi! My name is [Minkyu Park](https://github.com/MinkyuPark0816?tab=repositories), undergraduate research student at Artificial Intelligence Accelerating Lab (AIAC Lab) in Hallym University, Chuncheon, South Korea. 
 <!--![alt text](https://github.com/yourgithubid/yourgithubid/blob/main/profile.png?raw=true)
 -->
 ---
 ### Currently, I am interested in following Topics:
-- Deep Learning Model Lightweighting with CUDA in C (checkout my deep learning framework, [EasyTensor](https://github.com/yourgithubid/Easy_Tensor)!)
+- Deep Learning Model Lightweighting with CUDA in C
 - Edge AI power–latency–energy modeling on Jetson Orin Nano
 - Parallel/Accelerator Programming (CUDA, TensorRT)
 - Edge AI chip design
@@ -17,8 +17,8 @@ Hi! My name is [Minkyu Park](https://github.com/yourgithubid), undergraduate res
 |School|Hallym University|
 |Laboratory| [Artificial Intelligence Accelerating Lab (AIAC Lab)](https://sites.google.com/site/embeddedsochallymuniv/project)|
 |Grade|Senior|
-|E-mail|your_email@example.com|
-|GitHub|https://github.com/yourgithubid|
+|E-mail|parkparkmk@gmail.com|
+|GitHub|https://github.com/MinkyuPark0816|
 
 # 📄 Papers
 - (Target) Interpretable Modeling of Performance & Power in Edge-AI Inference (ICCE 2026)
