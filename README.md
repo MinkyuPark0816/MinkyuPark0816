@@ -22,8 +22,12 @@ Hi! My name is [Minkyu Park](https://github.com/MinkyuPark0816?tab=repositories)
 
 # 🏆 Awards
 - **Grand Prize (Minister of Science and ICT Award)** — 2025 National ICT Smart Device Competition (General Division), Sep. 12, 2025  
+- **Grand Prize** — 2025 Gangwon Startup Tantandae-ro Idea Competition (hosted by the Ministry of the Interior and Safety), 2025  
+- **Honorable Mention** — 2025 Northeast ICT Innovation Square Startup Idea Competition (hosted by the Ministry of Science and ICT), 2025  
+- **Top Team Selection** — 2025 Hana Social Venture University, 2025  
 - **2nd Prize** — SW Capstone Design Competition, Hallym University SW-Centric Project Group (sponsored by the Ministry of Science and ICT), Dec. 11, 2024  
-- **3rd Prize & Popularity Award** — SW-Centric University Digital Competition *“Convergence of Software and Generative AI”*, Aug. 6, 2024 
+- **3rd Prize & Popularity Award** — SW-Centric University Digital Competition *“Convergence of Software and Generative AI”*, Aug. 6, 2024  
+
 
 
 
