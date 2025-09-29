@@ -19,6 +19,8 @@ Hi! My name is [Minkyu Park](https://github.com/MinkyuPark0816?tab=repositories)
 |E-mail|parkparkmk@gmail.com|
 |GitHub|https://github.com/MinkyuPark0816|
 
+# Papers
+- *A Comprehensive Labeling Protocol and Real-time Inference Framework for Road Hazard Detection*, **ICCE-Asia 2025**
 
 # Awards
 - **Grand Prize (Minister of Science and ICT Award)** — 2025 National ICT Smart Device Competition (General Division), Sep. 12, 2025  
