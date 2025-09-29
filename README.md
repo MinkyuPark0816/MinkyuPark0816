@@ -20,7 +20,7 @@ Hi! My name is [Minkyu Park](https://github.com/MinkyuPark0816?tab=repositories)
 |GitHub|https://github.com/MinkyuPark0816|
 
 
-# 🏆 Awards
+# Awards
 - **Grand Prize (Minister of Science and ICT Award)** — 2025 National ICT Smart Device Competition (General Division), Sep. 12, 2025  
 - **Grand Prize** — 13th Pan-Government Public Data Utilization Startup Competition (Gangwon Regional Preliminary), 2025
 - **Inovation Award** — 2025 University Startup Idea Challenge, 2025
