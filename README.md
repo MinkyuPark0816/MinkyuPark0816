@@ -20,8 +20,8 @@ Hi! My name is [Minkyu Park](https://github.com/MinkyuPark0816?tab=repositories)
 |GitHub|https://github.com/MinkyuPark0816|
 
 # Papers
-- *Predicting Delay, Power, and Energy of Edge AI Inference with Ridge Regression*, **ICCE 2025**
-- *A Comprehensive Labeling Protocol and Real-time Inference Framework for Road Hazard Detection*, **ICCE-Asia 2025**
+- *Predicting Delay, Power, and Energy of Edge AI Inference with Ridge Regression*, **IEEE ICCE 2026**
+- *A Comprehensive Labeling Protocol and Real-time Inference Framework for Road Hazard Detection*, **IEEEvICCE-Asia 2025**
 
 # Awards
 - **Grand Prize (Minister of Science and ICT Award)** — 2025 National ICT Smart Device Competition (General Division), Sep. 12, 2025  
