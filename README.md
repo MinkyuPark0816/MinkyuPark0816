@@ -31,7 +31,7 @@ Hi! My name is [Minkyu Park](https://github.com/MinkyuPark0816?tab=repositories)
 - **Top Team Selection** — 2025 Hana Social Venture University, 2025  
 - **3rd Prize & Popularity Award** — SW-Centric University Digital Competition *“Convergence of Software and Generative AI”*, Aug. 6, 2024  
 
-#School Prizes
+# School Prizes
 - **2nd Prize** — SW Capstone Design Competition, Hallym University SW-Centric Project Group (sponsored by the Ministry of Science and ICT), Dec. 11, 2024  
 
 
