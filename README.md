@@ -29,10 +29,10 @@ Hi! My name is [Minkyu Park](https://github.com/MinkyuPark0816?tab=repositories)
 - **Inovation Award** — 2025 University Startup Idea Challenge, 2025
 - **Honorable Mention** — 2025 Northeast ICT Innovation Square Startup Idea Competition (hosted by the Ministry of Science and ICT), 2025  
 - **Top Team Selection** — 2025 Hana Social Venture University, 2025  
-- **2nd Prize** — SW Capstone Design Competition, Hallym University SW-Centric Project Group (sponsored by the Ministry of Science and ICT), Dec. 11, 2024  
 - **3rd Prize & Popularity Award** — SW-Centric University Digital Competition *“Convergence of Software and Generative AI”*, Aug. 6, 2024  
 
-
+#School Prizes
+- **2nd Prize** — SW Capstone Design Competition, Hallym University SW-Centric Project Group (sponsored by the Ministry of Science and ICT), Dec. 11, 2024  
 
 
 
