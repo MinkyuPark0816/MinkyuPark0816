@@ -6,9 +6,8 @@ Hi! My name is [Minkyu Park](https://github.com/MinkyuPark0816?tab=repositories)
 ---
 ### Currently, I am interested in following Topics:
 - Edge AI power–latency–energy modeling on Jetson Orin Nano
-- Deep Learning Model Lightweighting with CUDA in C
-- Parallel/Accelerator Programming (CUDA, TensorRT)
-- Federated Learning on Edge AI
+- Parallel/Accelerator Programming 
+
 
 # STATUS
 |Name|Minkyu Park|
