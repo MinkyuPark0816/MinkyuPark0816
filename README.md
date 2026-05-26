@@ -5,8 +5,9 @@ Hi! My name is [Minkyu Park](https://github.com/MinkyuPark0816?tab=repositories)
 -->
 ---
 ### Currently, I am interested in following Topics:
-- Edge AI power–latency–energy modeling on Jetson Orin Nano
-- Parallel/Accelerator Programming 
+- Computer Architecture
+- Domain Specific Architecture
+- Heterogeneous Computing 
 
 
 # STATUS
